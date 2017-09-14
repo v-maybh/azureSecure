@@ -1,0 +1,14 @@
+- name: Docs 
+    tocHref: / 
+    topicHref: / 
+    items: 
+      name: azureSecure 
+        tocHref: /azureSecure/ 
+        topicHref: /azureSecure/index 
+        items:
+          name: Secure_Development_userguide 
+            tocHref: /azureSecure/Secure_Development_userguide
+            topicHref: /azureSecure/Secure_Development_userguide
+          name: Security_IntelliSense_rules_list 
+            tocHref: /azureSecure/Security_IntelliSense_rules_list 
+            topicHref: /azureSecure/Security_IntelliSense_rules_list
